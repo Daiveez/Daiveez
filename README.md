@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daiveez
-- 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m an intermediate in Data science and machine learning with python 
+- 🌱 I’m currently learning neural networking and deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me babaloladavid141@gmail.com
 - 😄 Pronouns: He/Him
